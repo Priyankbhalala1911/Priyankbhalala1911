@@ -26,4 +26,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankbhalala1911&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+  <p></p>
+  <p></p>
+  <p></p>
+  <img src="https://profile-counter.glitch.me/priyankbhalala1911/count.svg?"  />
+</div>
+
+###
 ###
